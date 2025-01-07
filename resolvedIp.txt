@@ -1,6 +1,1 @@
-;; communications error to 208.67.222.222#53: timed out
-;; communications error to 208.67.222.222#53: timed out
-;; communications error to 208.67.222.222#53: timed out
-;; UDP setup with 2620:119:35::35#53(2620:119:35::35) for myip.opendns.com failed: network unreachable.
-;; no servers could be reached
-
+3.79.240.26
